@@ -1,0 +1,12 @@
+# Папка с настройками VS Code
+.vscode/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Файлы Jupyter Notebook
+.ipynb_checkpoints/
+
+# Системные файлы macOS
+.DS_Store
